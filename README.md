@@ -1,6 +1,6 @@
 # Blender-Compositing-Nodes
 
-how to use Asset library : <a href="https://www.youtube.com/watch?v=2FhFzvjQkZc">Youtube Tutorial</a>
+How to use Asset library : <a href="https://www.youtube.com/watch?v=2FhFzvjQkZc">Youtube Tutorial</a>
 
 Spikysaurus:<br>
 <ul>
