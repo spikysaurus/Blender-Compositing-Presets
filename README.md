@@ -18,3 +18,4 @@ Pimocore:<br>
   <li>Color Blending</li>
   <li>Blur Inner Image</li>
 </ul>
+More node presets for compositing : <a href="https://moportfolio.gumroad.com/l/mp_comp">MP_Comp</a> 
