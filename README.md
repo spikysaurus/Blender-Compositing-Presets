@@ -1,4 +1,4 @@
-# Blender-Compositing-Nodes
+# Blender-Compositing-Presets
 
 How to use Asset library : <a href="https://www.youtube.com/watch?v=2FhFzvjQkZc">Youtube Tutorial</a>
 
