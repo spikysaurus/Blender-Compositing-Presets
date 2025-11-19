@@ -13,6 +13,6 @@ Spikysaurus:<br>
 
 Pimocore:<br>
 <ul>
-  <li>Color Blending/li>
+  <li>Color Blending</li>
   <li>Blur Inner Image</li>
 </ul>
