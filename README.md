@@ -1,6 +1,7 @@
 # Blender-Compositing-Presets
 
-How to use Asset library : <a href="https://www.youtube.com/watch?v=2FhFzvjQkZc">Youtube Tutorial</a>
+How to use Asset library : <a href="https://www.youtube.com/watch?v=2FhFzvjQkZc">Youtube Video</a><br>
+How to use the node presets : <a href="https://www.youtube.com/watch?v=2-0yEtZ8WC0">Youtube Video</a>
 
 <a href="https://spikysaurus.github.io/">Spikysaurus:</a><br>
 <ul>
