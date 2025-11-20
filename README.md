@@ -2,7 +2,7 @@
 
 How to use Asset library : <a href="https://www.youtube.com/watch?v=2FhFzvjQkZc">Youtube Tutorial</a>
 
-Spikysaurus:<br>
+<a href="https://spikysaurus.github.io/">Spikysaurus:</a><br>
 <ul>
   <li>Binarize</li>
   <li>Color Keep</li>
@@ -13,7 +13,7 @@ Spikysaurus:<br>
   <li>White Removal</li>
 </ul>
 
-Pimocore:<br>
+<a href="https://bsky.app/profile/pimocore.bsky.social">Pimocore:</a><br>
 <ul>
   <li>Color Blending</li>
   <li>Blur Inner Image</li>
