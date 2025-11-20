@@ -7,9 +7,9 @@ How to use the node presets : <a href="https://www.youtube.com/watch?v=2-0yEtZ8W
 <ul>
   <li>Binarize</li>
   <li>Color Keep</li>
+  <li>Color Replace</li>
   <li>Dilate/Erode (Colored)</li>
-  <li>Outline</li>
-  <li>Replace Color</li>
+  <li>Outline</li
   <li>Smoother</li>
   <li>White Removal</li>
 </ul>
@@ -17,6 +17,6 @@ How to use the node presets : <a href="https://www.youtube.com/watch?v=2-0yEtZ8W
 <a href="https://bsky.app/profile/pimocore.bsky.social">Pimocore:</a><br>
 <ul>
   <li>Color Blending</li>
-  <li>Blur Inner Image</li>
+  <li>Blur Inner</li>
 </ul>
 More node presets for compositing : <a href="https://moportfolio.gumroad.com/l/mp_comp">MP_Comp</a> 
