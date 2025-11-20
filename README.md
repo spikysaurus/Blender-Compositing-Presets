@@ -9,7 +9,7 @@ How to use the node presets : <a href="https://www.youtube.com/watch?v=2-0yEtZ8W
   <li>Color Keep</li>
   <li>Color Replace</li>
   <li>Dilate/Erode (Colored)</li>
-  <li>Outline</li
+  <li>Outline</li>
   <li>Smoother</li>
   <li>White Removal</li>
 </ul>
