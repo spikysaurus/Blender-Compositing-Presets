@@ -1,7 +1,7 @@
 # Blender-Compositing-Presets
 Works in Blender 5.0! <br><br>
 How to use Asset library : <a href="https://www.youtube.com/watch?v=2FhFzvjQkZc">Youtube Video</a><br>
-How to use the node presets : <a href="https://www.youtube.com/watch?v=2-0yEtZ8WC0">Youtube Video</a>
+How to use the node presets : <a href="https://www.youtube.com/playlist?list=PLdk56EjsMhfhhSStPoSKzRb7RwTfiNqPX">Youtube Video</a>
 
 <a href="https://spikysaurus.github.io/">Spikysaurus:</a><br>
 <ul>
