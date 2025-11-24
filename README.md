@@ -10,6 +10,7 @@ How to use the node presets : <a href="https://www.youtube.com/playlist?list=PLd
   <li>Color Replace</li>
   <li>Dilate/Erode (Colored)</li>
   <li>Outline</li>
+  <li>Outline Only</li>
   <li>Smoother</li>
   <li>White Removal</li>
 </ul>
